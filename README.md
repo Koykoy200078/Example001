@@ -5,7 +5,7 @@ git init
 git add .
 
 # Commit Message
-git commit -m "<message nimo>"
+git commit -m "<message_nimo>"
 
 # Push Changes
 git push origin develop
